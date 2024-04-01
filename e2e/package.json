@@ -1,0 +1,26 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Package Configurations",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ivanhidalgo22/cypress-e2e.git"
+  },
+  "keywords": [
+    "e2e"
+  ],
+  "author": "Mariana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanhidalgo22/cypress-e2e/issues"
+  },
+  "homepage": "https://github.com/ivanhidalgo22/cypress-e2e#readme",
+  "devDependencies": {
+    "cypress": "^13.7.1"
+  }
+}
